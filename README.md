@@ -1,3 +1,4 @@
+[support_resolution.txt](https://github.com/user-attachments/files/19263195/support_resolution.txt)
 # Signature Verification
 
 GitHub uses asymmetric cryptography to provide signatures for select integration methods, including the Secret Scanning Partner Program and Copilot Extensibility. This allows you to verify that the payload was sent by GitHub and not modified.
